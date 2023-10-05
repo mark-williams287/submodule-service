@@ -11,5 +11,8 @@ class IntegrationTestApplicationTests {
     @Test
     void testRuns() {
         logger.info("Running test in service");
+        logger.info("Running test in service");
+        logger.info("Running test in service");
+        logger.info("Running test in service");
     }
 }
